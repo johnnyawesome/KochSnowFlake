@@ -1,5 +1,5 @@
 # KochSnowFlake
-The Koch Snowflake coded in P5JS
+The [Koch Snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) coded in P5JS
 
 It's nicely animated:
 
